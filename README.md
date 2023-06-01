@@ -7,6 +7,8 @@ Gate device is used check if the user has equipped a helmet or not.
 ## firebase config
 the firebase api will be summited but the firestore service will be terminated after 29th May. If you need to access it, please contace Mr. Leung (+852 67762279) or via tkleung68-c@my.cityu.edu.hk
 
+updated on 1/6/2023, the api key will be removed.
+
 ## photo and processed photo
 will be stored in /scannedPhoto and /result
 
